@@ -4,24 +4,29 @@ const DETAIL_DATA = {
     "badge": "Doğal Güzellikler",
     "items": [
         {
-            "title": "Doğal Güzellik 1 - Ankara",
-            "desc": "Ankara şehrinin nefis manzaralı milli parkı."
+            "category": "Popüler Nokta 1",
+            "title": "Önemli Mekan 1 - Ankara",
+            "desc": "Ankara şehrinin en çok ziyaret edilen gözde lokasyonlarından biri."
         },
         {
-            "title": "Doğal Güzellik 2 - Ankara",
-            "desc": "Yeşillikler içinde huzur veren dinlenme alanı."
+            "category": "Popüler Nokta 2",
+            "title": "Önemli Mekan 2 - Ankara",
+            "desc": "Tarihi ve kültürel dokusuyla büyüleyen özel bir nokta."
         },
         {
-            "title": "Doğal Güzellik 3 - Ankara",
-            "desc": "Doğa yürüyüşleri ve kamp için ideal bölge."
+            "category": "Popüler Nokta 3",
+            "title": "Önemli Mekan 3 - Ankara",
+            "desc": "Gezginlerin rotasından eksik etmediği popüler bir durak."
         },
         {
-            "title": "Doğal Güzellik 4 - Ankara",
-            "desc": "Göl veya sahil şeridinde eşsiz manzara noktası."
+            "category": "Popüler Nokta 4",
+            "title": "Önemli Mekan 4 - Ankara",
+            "desc": "Mimari ve doğal güzellikleriyle göz kamaştıran bölge."
         },
         {
-            "title": "Doğal Güzellik 5 - Ankara",
-            "desc": "Temiz havası ve bitki örtüsüyle saklı cennet."
+            "category": "Popüler Nokta 5",
+            "title": "Önemli Mekan 5 - Ankara",
+            "desc": "Ankara keşif turunun vazgeçilmez simgelerinden biri."
         }
     ]
 };
